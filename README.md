@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterNegativeIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-integers@esm/index.mjs';
+import iterNegativeIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-integers@v0.2.3-esm/index.mjs';
 ```
 
 #### iterNegativeIntegersSeq( \[options] )
@@ -133,7 +133,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterNegativeIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-integers@esm/index.mjs';
+import iterNegativeIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-integers@v0.2.3-esm/index.mjs';
 
 // Create an iterator:
 var opts = {
